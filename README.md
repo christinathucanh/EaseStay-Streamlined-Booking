@@ -2,6 +2,9 @@
 
 EasyStay is a full-stack booking application designed to provide users with a seamless and intuitive experience for booking accommodations. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), EasyStay offers features similar to popular platforms like Airbnb, enabling users to search, book, and manage their stays effortlessly.
 
+## App Demo
+
+
 ## Features
 
 - **User Authentication**: Secure user authentication with JWT-based tokens ensures safe access to the platform, enhancing user privacy and data security.
