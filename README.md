@@ -8,7 +8,7 @@ EasyStay is a full-stack booking application designed to provide users with a se
 
 - **Efficient Data Management**: MongoDB and Mongoose are utilized for efficient data storage and retrieval, resulting in optimized database query performance and reduced data retrieval times.
 
-- **Streamlined Booking Process**: StayEase offers a streamlined booking process, allowing users to search for accommodations based on their preferences, view detailed listings, and complete bookings seamlessly.
+- **Streamlined Booking Process**: EasyStay offers a streamlined booking process, allowing users to search for accommodations based on their preferences, view detailed listings, and complete bookings seamlessly.
 
 - **Responsive User Interface**: The frontend, built with React.js and Tailwind CSS, features a responsive and intuitive user interface, ensuring optimal user experience across various devices and screen sizes.
 
