@@ -1,5 +1,4 @@
 # EaseStay-Streamlined-Booking
-# StayEase: Seamless Booking Experience
 
 StayEase is a full-stack booking application designed to provide users with a seamless and intuitive experience for booking accommodations. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), StayEase offers features similar to popular platforms like Airbnb, enabling users to search, book, and manage their stays effortlessly.
 
