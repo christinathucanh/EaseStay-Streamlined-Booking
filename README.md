@@ -10,7 +10,7 @@ EaseStay is a full-stack booking application designed to provide users with a se
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
    
-## Introduction
+## 🤖Introduction
 
 <img width="718" alt="Screenshot 2024-05-01 at 12 38 44 AM" src="https://github.com/christinathucanh/EaseStay-Streamlined-Booking/assets/95081865/8e27c619-767e-42e9-ad0f-d94c6cf7010c">
 <img width="806" alt="Screenshot 2024-05-01 at 12 36 55 AM" src="https://github.com/christinathucanh/EaseStay-Streamlined-Booking/assets/95081865/cd00bf1b-53e7-4244-9dc0-ca9f9213b53d">
@@ -22,7 +22,7 @@ EaseStay is a full-stack booking application designed to provide users with a se
   - React.js
   - Node.js
   - Redux
-## Features
+## 🔋Features
 
 - **User Authentication**: Secure user authentication with JWT-based tokens ensures safe access to the platform, enhancing user privacy and data security.
 
@@ -55,8 +55,6 @@ and many more, including code architecture and reusability
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
-
-## Installation
 
 1. Clone the repository:
 
